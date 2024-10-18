@@ -1,7 +1,7 @@
 <?php  
  
 if(isset($_POST['submit'])) {
- $mailto = "mkajoe@gmail.com";  // falta correo empresarial
+ $mailto = "pvr.yachts@gmail.com";  // falta correo empresarial
  
  $name = $_POST['name']; 
  $fromEmail = $_POST['email']; 
